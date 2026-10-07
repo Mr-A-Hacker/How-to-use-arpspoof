@@ -1,3 +1,10 @@
+> ## 👋 Start Here
+> An educational ARP-spoofing guide. **For users:** learn what ARP spoofing means, why local networks can be affected, and how defenders can detect and prevent it. Use hands-on experiments only in an isolated lab you control.
+>
+> **Safety:** Use security, camera, and network features only on systems and networks you own or are explicitly authorized to test.
+
+---
+
 # How-to-use-arpspoof
 
 # 🛡️ Easy Guide: How to Block Someone’s Internet on Your LAN  
